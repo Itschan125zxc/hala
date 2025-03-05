@@ -9,7 +9,7 @@
       <ContentProtection cenc:default_KID="31363231-3834-3738-3231-323033353237" xmlns:cenc="urn:mpeg:cenc:2013" schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
         <cenc:pssh>AAAAaXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAEkIARIQMTYyMTg0NzgyMTIwMzUyNxoHenRldHJ1ZSIiQ29udmVyZ2VPVFRfY2gwMDAwMDA5MDk5MDAwMDAwMTA4NyoCSEQyAEgA</cenc:pssh>
       </ContentProtection>
-      <SegmentTemplate timescale="1000" initialization="initialization="init-f1-a1-x3.mp4?startNumber=42213004&amp;JITPDRMType=&amp;filedura=6&amp;IASHttpSessionId=OTT988320250304030108000277&amp;m4s_min=1&amp;JITPMediaType=&amp;ztecid=ch00000090990000001087&amp;ispcode=55" startNumber="42213004" media="fragment-42207985-f1-a1-x3.m4s?startNumber=42213004&amp;JITPDRMType=&amp;filedura=6&amp;IASHttpSessionId=OTT988320250304030108000277&amp;m4s_min=1&amp;JITPMediaType=&amp;ztecid=ch00000090990000001087&amp;ispcode=55">
+      <SegmentTemplate timescale="1000" initialization="init-f1-a1-x3.mp4?startNumber=42213004&amp;JITPDRMType=&amp;filedura=6&amp;IASHttpSessionId=OTT988320250304030108000277&amp;m4s_min=1&amp;JITPMediaType=&amp;ztecid=ch00000090990000001087&amp;ispcode=55" startNumber="42213004" media="fragment-42207985-f1-a1-x3.m4s?startNumber=42213004&amp;JITPDRMType=&amp;filedura=6&amp;IASHttpSessionId=OTT988320250304030108000277&amp;m4s_min=1&amp;JITPMediaType=&amp;ztecid=ch00000090990000001087&amp;ispcode=55">
         <SegmentTimeline>
           <S t="253278020537" r="5" d="6006" />
         </SegmentTimeline>
